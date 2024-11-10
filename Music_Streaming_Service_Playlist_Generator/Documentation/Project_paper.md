@@ -65,7 +65,7 @@ In general, we included the following constraints in our model:
 
 A solution to one of the 14 possible outcomes is shown below. For the age 1 group and gender male, we include artists 16,18,19,20,34,35,37,38 in our playlist. 
 
-![SAS Output](/Music_Streaming_Service_Playlist/Images/Sas_Output_1.jpeg)
+![SAS_Output](https://github.com/Benischeck/Portfolio/blob/main/Assets/Music_Streaming_Service_Playlist_Generator/SAS_Output_1.JPG)
 
 To reach this model, we first had to analyze the datasets given to us by EMI, in accordance with our research findings on how age and gender cause differences in musical taste and preference. We eliminated any values of missing gender, to create the binary decision of male or female. Likewise, we removed any missing ages. based upon a study carried out by Arielle Bonneville-Roussy from Cambridge’s Department of Psychology, we divided age into 7 groups:
 
@@ -128,6 +128,6 @@ Now that we have 10 meaningful clusters, we can find the percentage of each clus
 *figure 3.2*
 
 
-![figure 3.3](/Music_Streaming_Service_Playlist/Images/Figure_3.3.jpeg)
+![figure_3.3](https://github.com/Benischeck/Portfolio/blob/main/Assets/Music_Streaming_Service_Playlist_Generator/Figure_3.3.JPG)
 
 *figure 3.3*
