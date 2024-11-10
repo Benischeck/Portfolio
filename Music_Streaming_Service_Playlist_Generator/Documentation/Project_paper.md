@@ -1,4 +1,4 @@
-![project coldlight cover](.Portfolio/Music_Streaming_Service_Playlist/Images/Project_Coldlight_Cover.jpeg)
+![project coldlight cover](./Images_Music_Streaming_Service/Project_Coldlight_Cover.jpg)
 
 *“Music is a cross-cultural universal, a ubiquitous activity found in every known human culture. Individuals demonstrate manifestly different preferences in music, and yet relatively little is known about the underlying structure of those preferences.”* (Rentfrow et al. 2012).
 
